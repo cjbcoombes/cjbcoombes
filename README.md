@@ -14,7 +14,7 @@ I'm a student, after all. I'm taking classes in Computer Science, Math, and Span
 
 ### Writing a Compiler
 
-<table style="width:100%;">
+<table style="border:none;width:100%;">
 <tr><td>
 I don't know how to write a compiler. <br>
 Or design a programming language. <br>
@@ -29,7 +29,7 @@ So I'm figuring it out.
 I'm intentionally doing this project with minimal reference to actual compiler knowledge and research. I want to come up with as many solutions on my own as I can. I've already learned a lot!
 
 ## Tech and Tools
-<table  style="width:100%;">
+<table  style="border:none;width:100%;">
 <tr><td>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
