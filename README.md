@@ -11,6 +11,9 @@ I am a full-time student at **Northeastern University** studying **Computer Scie
 ### Learning!
 I'm a student, after all. I'm taking classes in Computer Science, Math, and Spanish. I love logic, patterns, and formalism—I currently plan to finish my degree focusing on Algorithms and Programming Languages. I think the best way to learn any language, skill, or tool, is to go build something with it, looking stuff up as you go (that's what I'm doing with my Compiler! see below).
 
+My current most relevant courses:
+- Completed: Object Oriented Design, Advanced Linear Algebra, Multivariable Calculus
+- In Progress: Grad-level Algorithms, Theory of Computation
 
 ### Writing a Compiler
 
@@ -26,7 +29,14 @@ So I'm figuring it out.
 </td></tr>
 </table>
 
-I'm intentionally doing this project with minimal reference to actual compiler knowledge and research. I want to come up with as many solutions on my own as I can. I've already learned a lot!
+I'm intentionally doing this project with minimal reference to actual compiler knowledge and research. I want to come up with as many solutions on my own as I can. I've already learned a lot! I'm also practicing my C++: data structures, algorithms, standard library, and proper memory management.
+
+### Fun stuff
+
+<a href="https://github.com/cjbcoombes/powerdle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=powerdle&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
+</a><br>
+A friend made a graphic of the Wordle but packed with reward systems. I thought it was funny, and perhaps a commentary on games nowadays, so I made it. Built with vanilla JavaScript, CSS, and HTML.
 
 ## Tech and Tools
 <table  style="border:none!important;width:100%;">
