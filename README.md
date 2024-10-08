@@ -15,19 +15,21 @@ My current most relevant courses:
 - Completed: Object Oriented Design, Advanced Linear Algebra, Multivariable Calculus
 - In Progress: Grad-level Algorithms, Theory of Computation
 
-### Writing a Compiler
+### Making an LLM-Powered Feedback Tool for CS Students
+<a href="https://github.com/NUFeedBot/feedbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUFeedBot&repo=feedbot&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
+</a><br><br>
 
-<table style="border:none;width:100%;">
-<tr><td>
-I don't know how to write a compiler. <br>
-Or design a programming language. <br>
-So I'm figuring it out. 
-</td><td>
+My professor Daniel Patterson wanted to see as a sort of research project if an LLM could be used to give students feedback in the introductory CS class. It's not for grading and it's not for giving away answers: it's tailored to help students get "unstuck" and follow the Design Recipe given to them by the class, hopefully helping students learn and freeing up TAs to give more meaningful feedback.
+
+### Writing a Compiler
 <a href="https://github.com/cjbcoombes/Zed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=Zed&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
-</a>
-</td></tr>
-</table>
+</a><br><br>
+
+I don't know how to write a compiler.  
+Or design a programming language.  
+So I'm figuring it out.
 
 I'm intentionally doing this project with minimal reference to actual compiler knowledge and research. I want to come up with as many solutions on my own as I can. I've already learned a lot! I'm also practicing my C++: data structures, algorithms, standard library, and proper memory management.
 
@@ -35,7 +37,8 @@ I'm intentionally doing this project with minimal reference to actual compiler k
 
 <a href="https://github.com/cjbcoombes/powerdle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=powerdle&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
-</a><br>
+</a><br><br>
+
 A friend made a graphic of the Wordle but packed with reward systems. I thought it was funny, and perhaps a commentary on games nowadays, so I made it. Built with vanilla JavaScript, CSS, and HTML.
 
 ## Tech and Tools
