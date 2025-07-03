@@ -17,8 +17,8 @@ My current most relevant courses:
 - In Progress: Computer Systems, Advanced Group Theory, Graph Theory
 
 ### A Research Project on LLM-Powered Feedback for CS Students
-<a href="https://github.com/NUFeedBot/feedbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUFeedBot&repo=feedbot-client&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
+<a href="https://github.com/NUFeedBot/feedbot-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUFeedBot&repo=feedbot-client&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Feedbot" />
 </a><br><br>
 
 I worked with a professor and a small team to integrate an LLM into the autograding infrastructure of a computer science course. The system utilizes the LLM to provide constructive feedback on introductory computer science assignments. It is written in Python, and involves parsing submitted files, making asynchronous API requests, and collecting responses to be presented to students.
@@ -48,7 +48,16 @@ I worked as the lead software developer at ShepherdXR, developing a VR mathemati
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=Zed&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
 </a>
 <a href="https://github.com/cjbcoombes/powerdle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=powerdle&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=powerdle&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Powerdle" />
+</a>
+<a href="https://github.com/cjbcoombes/aoc-2024">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=aoc-2024&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Advent of Code" />
+</a>
+<a href="https://github.com/cjbcoombes/parser-combinators-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=parser-combinators-demo&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Parser Combinators Demo" />
+</a>
+<a href="https://github.com/cjbcoombes/fractal-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=fractal-viewer&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Fractal Viewer" />
 </a><br><br>
 
 <details>
@@ -61,6 +70,21 @@ I completely designed a custom bytecode as my compile targed, and a virtual mach
 <details>
 <summary>Powerdle</summary>
 A friend made a graphic of the Wordle but packed with reward systems. I thought it was funny, and perhaps a commentary on games nowadays, so I made it. Built with vanilla JavaScript, CSS, and HTML. Playable at <a href="https://cjbcoombes.github.io/powerdle/">https://cjbcoombes.github.io/powerdle/</a>.
+</details>
+
+<details>
+<summary>Advent of Code (aoc-2024)</summary>
+I think <a href="https://adventofcode.com/2024/about">Advent of Code</a> is a wonderful way to practice new languages/tools and algorithm skills. The past two years I've done AoC in Haskell (very enjoyable) and this past year I used NeoVim as my editor (slightly less enjoyable... steep learning curve).
+</details>
+
+<details>
+<summary>Parser Combinators Demo</summary>
+Parser combinators are a super cool and extremely expressive way of doing parsing, and Haskell lends itself to them extremely well. I implemented parser combinators myself to get a better understanding, and then used my system to implement a fun little game (see the <a href="https://github.com/cjbcoombes/parser-combinators-demo/blob/main/README.md">README</a> for more info about that).
+</details>
+
+<details>
+<summary>Fractal Viewer</summary>
+I learned some WebGL to make an interactive fractal viewer in the browser with vanilla JS, CSS, HTML, and a modular fragment shader. Lots of fun to play with, and I even discovered my own cool-looking fractal while testing different equations! It specifically deals with Mandelbrot-style fractals in which a function is repeatedly applied to a starting point, and that point is colored based on whether that process eventually yields really large numbers (and how many iterations it takes to do so). Play with it yourself: <a href="https://cjbcoombes.github.io/fractal-viewer/">https://cjbcoombes.github.io/fractal-viewer/</a>.
 </details>
 
 ## Tech and Tools
