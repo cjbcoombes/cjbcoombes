@@ -25,7 +25,23 @@ I worked with a professor and a small team to integrate an LLM into the autograd
 
 It was deployed to 500+ students in 1st year CS classes, with active feedback-driven development. It lead to a published paper (https://dbp.io/pubs/2025/feedbot.pdf) finding quantitative benefits for students, to be presented at ITCSE 2025.
 
-### 
+### Building Math Education Software at ShepherdXR
+
+ShepherdXR is creating a mathematics teaching intervention program designed to bridge the gap from arithmetics to algebra. It presents math equations as something students can physically manipulate with their hands in VR, while also placing them in an immersive and exciting environment.
+
+I worked as the lead software developer at ShepherdXR, developing a VR mathematics education platform from scratch using Unity/C# and OpenXR, implementing 180 classes and 21k lines of code. I worked closely with CEO Femi Fadugba and the other members of our team to both design and implement the software. It will soon be undergoing testing and a research study to determine its pedagogical effectiveness.
+
+<details>
+<summary>More about my specific accomplishments</summary>
+<ul>
+ <li>Designed a state machine architecture and event system for modular implementation of core gameplay.</li>
+ <li>Engineered a 3D math rendering engine turning LaTeX strings into interactive animated equations.</li>
+ <li>Built a system recognizing six hand gestures from raw XR tracking data, including denoising and correction for false positives and ambiguous cases.</li>
+ <li>Created a fish control system allowing fish to perform precise animations while exhibiting organic schooling behavior, using a modified boids algorithm.</li>
+ <li>Developed an adaptive learning algorithm that tracks student progress and selects optimal problems based on several learner metrics.</li>
+ <li>Integrated Unity Sentis and an MNIST model for machine-learning-powered handwriting recognition.</li>
+</ul>
+</details>
 
 ### Personal Projects
 <a href="https://github.com/cjbcoombes/Zed">
@@ -52,14 +68,16 @@ A friend made a graphic of the Wordle but packed with reward systems. I thought 
 <tr><td>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </td><td>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cjbcoombes&layout=compact&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f">
 </td></tr>
