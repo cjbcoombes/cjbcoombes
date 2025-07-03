@@ -5,41 +5,47 @@
 My name is **Christopher Coombes** \
 My username in most places is **cjbcoombes** \
 You can find me at [cjbcoombes@gmail.com](mailto:cjbcoombes@gmail.com), [LinkedIn](www.linkedin.com/in/cjbcoombes), [GitHub](https://github.com/cjbcoombes) (You're already there!) \
-I am a full-time student at **Northeastern University** studying **Computer Science and Mathematics**
+Here is a copy of my [resume](./Christopher%20Coombes%20Resume.pdf) \
+I am a full-time undergraduate at **Northeastern University** studying **Computer Science and Mathematics** with expected graduation in **May 2027**
 
-## What am I doing?
+## What am I doing? (or have done)
 ### Learning!
-I'm a student, after all. I'm taking classes in Computer Science, Math, and Spanish. I love logic, patterns, and formalism—I currently plan to finish my degree focusing on Algorithms and Programming Languages. I think the best way to learn any language, skill, or tool, is to go build something with it, looking stuff up as you go (that's what I'm doing with my Compiler! see below).
+I'm a student, after all. I'm taking classes in Computer Science, Math, and Spanish. I love logic, patterns, and formalism—I currently plan to finish my degree focusing on Algorithms and their mathematical foundations. I think the best way to learn any language, skill, or tool, is to go build something with it, looking stuff up as you go.
 
 My current most relevant courses:
-- Completed: Object Oriented Design, Advanced Linear Algebra, Multivariable Calculus
-- In Progress: Grad-level Algorithms, Theory of Computation
+- Completed: Grad-level Algorithms, Object Oriented Design, Advanced Linear Algebra, Theory of Computation, Multivariable Calculus
+- In Progress: Computer Systems, Advanced Group Theory, Graph Theory
 
-### Making an LLM-Powered Feedback Tool for CS Students
+### A Research Project on LLM-Powered Feedback for CS Students
 <a href="https://github.com/NUFeedBot/feedbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUFeedBot&repo=feedbot&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUFeedBot&repo=feedbot-client&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
 </a><br><br>
 
-My professor Daniel Patterson wanted to see as a sort of research project if an LLM could be used to give students feedback in the introductory CS class. It's not for grading and it's not for giving away answers: it's tailored to help students get "unstuck" and follow the Design Recipe given to them by the class, hopefully helping students learn and freeing up TAs to give more meaningful feedback.
+I worked with a professor and a small team to integrate an LLM into the autograding infrastructure of a computer science course. The system utilizes the LLM to provide constructive feedback on introductory computer science assignments. It is written in Python, and involves parsing submitted files, making asynchronous API requests, and collecting responses to be presented to students.
 
-### Writing a Compiler
+It was deployed to 500+ students in 1st year CS classes, with active feedback-driven development. It lead to a published paper (https://dbp.io/pubs/2025/feedbot.pdf) finding quantitative benefits for students, to be presented at ITCSE 2025.
+
+### 
+
+### Personal Projects
 <a href="https://github.com/cjbcoombes/Zed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=Zed&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
-</a><br><br>
-
-I don't know how to write a compiler.  
-Or design a programming language.  
-So I'm figuring it out.
-
-I'm intentionally doing this project with minimal reference to actual compiler knowledge and research. I want to come up with as many solutions on my own as I can. I've already learned a lot! I'm also practicing my C++: data structures, algorithms, standard library, and proper memory management.
-
-### Fun stuff
-
+</a>
 <a href="https://github.com/cjbcoombes/powerdle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjbcoombes&repo=powerdle&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272f" alt="Zed" />
 </a><br><br>
 
-A friend made a graphic of the Wordle but packed with reward systems. I thought it was funny, and perhaps a commentary on games nowadays, so I made it. Built with vanilla JavaScript, CSS, and HTML.
+<details>
+<summary>Zed</summary>
+My favorite personal project so far—my own programming language and compiler. I intentionally undertook this project with minimal reference to actual compiler knowledge and research, wanting to find as many of my own solutions as possible. I learned a TON, really enloyed it, and it was a great hands-on way to get C++ skills (data structures, algorithms, standard library, and proper memory management).
+<br><br>
+I completely designed a custom bytecode as my compile targed, and a virtual machine to run it, a parser, and a tokenizer. The compiler is partially implemented, with a basic type system and IR but minimal actual generation of bytecode from that IR. It will likely never get finished but it was an extremely valuable learning experience.
+</details>
+
+<details>
+<summary>Powerdle</summary>
+A friend made a graphic of the Wordle but packed with reward systems. I thought it was funny, and perhaps a commentary on games nowadays, so I made it. Built with vanilla JavaScript, CSS, and HTML. Playable at <a href="https://cjbcoombes.github.io/powerdle/">https://cjbcoombes.github.io/powerdle/</a>.
+</details>
 
 ## Tech and Tools
 <table  style="border:none!important;width:100%;">
