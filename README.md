@@ -12,6 +12,8 @@ I am a full-time undergraduate at **Northeastern University** studying **Compute
 ### Learning!
 I'm a student, after all. I'm taking classes in Computer Science, Math, and Spanish. I love logic, patterns, and formalism—I currently plan to finish my degree focusing on Algorithms and their mathematical foundations. I think the best way to learn any language, skill, or tool, is to go build something with it, looking stuff up as you go.
 
+I'm also passionate about teaching, and I've taken opportunities to work on an education research project (see below), be a teaching assistent for CS courses, and volunteer as a tutor at 826 Boston.
+
 My current most relevant courses:
 - Completed: Grad-level Algorithms, Object Oriented Design, Advanced Linear Algebra, Theory of Computation, Multivariable Calculus
 - In Progress: Computer Systems, Advanced Group Theory, Graph Theory
